@@ -1,0 +1,51 @@
+body
+{
+	background-color: antiquewhite;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+
+
+#Name {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+
+}
+#h1{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+img{
+    width: 50px;
+    padding: 10px;
+  box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#div:hover{
+	background-color: black;
+	width: 550px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  background-color: white;
+}
+img:hover{
+    border-radius: 140px;
+}
